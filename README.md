@@ -49,7 +49,7 @@
   <!-- Contact -->
   <section class="py-16 px-8 text-center">
     <h2 class="text-3xl font-bold mb-6">Get In Touch</h2>
-    <p class="text-gray-300 mb-4">📧 zakir.cybersec@example.com</p>
+    <p class="text-gray-300 mb-4">📧 click2zakir@gmail.com</p>
     <a href="https://github.com/zak5886" target="_blank" class="inline-block px-6 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">View My GitHub</a>
   </section>
 
